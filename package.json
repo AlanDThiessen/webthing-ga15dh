@@ -1,0 +1,27 @@
+{
+  "name": "webthing-ga15dh",
+  "version": "1.0.0",
+  "description": "WebThing to control the Asus ROG Strix GA15DH Lights.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Asus",
+    "ROG",
+    "Strix",
+    "GA15DH",
+    "LED",
+    "WebThings"
+  ],
+  "author": "Alan Thiessen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlanDThiessen/webthing-ga15dh/issues"
+  },
+  "homepage": "https://github.com/AlanDThiessen/webthing-ga15dh",
+  "dependencies": {
+    "coruscate": "^1.0.0",
+    "webthing": "^0.15.0"
+  }
+}
